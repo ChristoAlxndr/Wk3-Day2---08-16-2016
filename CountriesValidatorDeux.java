@@ -37,6 +37,7 @@ public class CountriesValidatorDeux {
 						}
 					}
 					cRD.overwriteCountryListMethod(listedCountries);
+					System.out.println(userCountryDelete + " has been deleted from the list. \n\n");
 					break;
 					
 				case "4":
